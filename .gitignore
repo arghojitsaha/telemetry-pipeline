@@ -1,0 +1,15 @@
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+telemetry-pipeline
+
+# OS & Editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Environment files
+.env
